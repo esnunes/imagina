@@ -1,20 +1,17 @@
 {
   "name": "imagina",
   "description": "Imagina - node.js image library wrapper of ImageMagick",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Eduardo Nunes",
     "email": "esnunes@gmail.com"
   },
   "keywords": [
-    "validation",
-    "validator",
-    "validate",
-    "sanitization",
-    "sanitisation",
-    "sanitizer",
-    "sanitiser",
-    "lightweight"
+    "image",
+    "imagemagick",
+    "resize",
+    "batch",
+    "convert"
   ],  
   "licenses": [
     {
