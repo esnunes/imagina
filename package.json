@@ -1,0 +1,36 @@
+{
+  "name": "imagina",
+  "description": "Imagina - node.js image library wrapper of ImageMagick",
+  "version": "0.1.0",
+  "author": {
+    "name": "Eduardo Nunes",
+    "email": "esnunes@gmail.com"
+  },
+  "keywords": [
+    "validation",
+    "validator",
+    "validate",
+    "sanitization",
+    "sanitisation",
+    "sanitizer",
+    "sanitiser",
+    "lightweight"
+  ],  
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/esnunes/imagina/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/esnunes/imagina.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esnunes/imagina/issues"
+  },
+  "main": "lib/imagina.js",
+  "dependencies": {
+    "async": "~0.2.9"
+  }
+}
