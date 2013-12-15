@@ -7,6 +7,8 @@ Imagina uses [async queue](https://github.com/caolan/async#queue) to assure serv
 
 Imagina requires knowledge of ImageMagick convert command line options, for more information check out [ImageMagick: Command-line Options](http://www.imagemagick.org/script/command-line-options.php).
 
+> Recently released [imagina-middleware](https://github.com/esnunes/imagina-middleware) - Express middleware to dynamically resize images.
+
 ## Install
 
 Imagina is available on [npmjs](https://npmjs.org/package/imagina). To add Imagina to you application on a Terminal run:
