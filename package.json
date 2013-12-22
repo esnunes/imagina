@@ -1,7 +1,7 @@
 {
   "name": "imagina",
   "description": "Imagina - node.js image library wrapper of ImageMagick",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": {
     "name": "Eduardo Nunes",
     "email": "esnunes@gmail.com"
